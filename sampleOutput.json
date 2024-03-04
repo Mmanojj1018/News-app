@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Henry Kissinger’s life and legacy in his own words",
+      "description": "Former foreign policy giant Henry Kissinger has died aged 100.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-67574846",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/184DC/production/_131884599_p0gws2dh.jpg",
+      "publishedAt": "2023-11-30T04:52:20.5042683Z",
+      "content": "Former foreign policy giant Henry Kissinger has died aged 100. \r\nKissinger served as National Security Advisor and Secretary of State during the Nixon and Ford administrations. \r\nHe received the Nobe… [+128 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Henry Kissinger: US foreign policy giant dies aged 100",
+      "description": "Reaction after the death of Henry Kissinger, a divisive US diplomat who towered over world affairs.",
+      "url": "http://www.bbc.co.uk/news/live/world-us-canada-67574519",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2023-11-30T03:52:26.7378979Z",
+      "content": "Heinz Alfred Kissinger was born into a middle-class Jewish family in Bavaria on 27 May 1923.\r\nThe family left it late to flee the Nazi persecution, but they joined the German-Jewish community in New … [+2112 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Henry Kissinger: Divisive diplomat who towered over world affairs",
+      "description": "President Nixon's foreign affairs guru declared power to be the \"ultimate aphrodisiac\".",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-19872410",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1A88/production/_108029760_89f2143a-7132-4de3-bbab-ce4608f11c60.jpg",
+      "publishedAt": "2023-11-30T02:22:15.409272Z",
+      "content": "Henry Kissinger - who has died, aged 100, at his Connecticut home - divided opinion.\r\nA committed practitioner of 'realism' in foreign relations, he was both awarded the Nobel Peace Prize and roundly… [+9211 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Elon Musk says advertising boycott will kill X",
+      "description": "In a profanity-laced outburst, the billionaire accuses firms of trying to blackmail him with ad dollars.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-67574396",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12CF8/production/_131884077_musk.jpg",
+      "publishedAt": "2023-11-30 T0 2:07:17.393781Z",
+      "content": "In a profanity-laced outburst, Elon Musk has slammed advertisers that have left X, warning they will kill the social media platform.\r\nAt an event in New York, he accused companies that have joined an… [+2805 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Major snowstorm spawns travel chaos in US",
+      "description": "A Nor'easter storm hit several states in the US with heavy winds and snow, creating a winter wonderland.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-67573077",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/61D8/production/_131884052_p0gwrv35.jpg",
+      "publishedAt": "2023-11-30T01:07:17.4107161Z",
+      "content": "Man saved from sinking digger, in another digger's bucket. Video, 00:00:34Man saved from sinking digger, in another digger's bucket"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Why is North Korea saying it's watching the White House?",
+      "description": "Long spied on by its more tech-advanced enemies, Pyongyang says it can now do the same.",
+      "url": "http://www.bbc.co.uk/news/world-asia-67563543",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F914/production/_131846736_d837609edc521bb9d570dc9004731222a284602f.jpg",
+      "publishedAt": "2023-11-30T00:07:22.4260687Z",
+      "content": "North Korea has declared it's got the White House in its sights thanks to its new spy satellite - which the regime says is up and running, although the West has its doubts.\r\nStill, leader Kim Jong Un… [+5839 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Liat Beinin Atzili: US citizen among 16 Hamas hostages released",
+      "description": "Two dual US-Israeli citizens have so far been released as part of a Qatari-brokered ceasefire in Gaza.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-67573714",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CE66/production/_131883825_gettyimages-1810697754.jpg",
+      "publishedAt": "2023-11-29T22:52:16.8605876Z",
+      "content": "A dual US-Israeli citizen held hostage in Gaza has been released as part of a temporary ceasefire between Hamas and Israel. \r\nThe hostage, Liat Beinin Atzili, was taken from her home in Kibbutz Nir O… [+2426 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Vermont shooting: ‘It was every mother's nightmare'",
+      "description": "After attack on three students of Palestinian descent, mums of two victims speak out about their sons.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-67572364",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/192C/production/_131844460_p0gwqtc3.jpg",
+      "publishedAt": "2023-11-29T18:52:18.8290127Z",
+      "content": "Days after a gunman shot three students of Palestinian descent in Burlington, Vermont, one of the three victims has been released from hospital and one remains in intensive care. \r\nTheir mothers desc… [+63 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "George Santos: Embattled Republican faces third vote to expel him from Congress",
+      "description": "A damning ethics report on the Republican has all but assured he will be removed from the US House.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-67571430",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2810/production/_131865201_gettyimages-1769456819-1.jpg",
+      "publishedAt": "2023-11-29T18:52:15.5954449Z",
+      "content": "The US House of Representatives will hold a third vote to expel Congressman George Santos from its ranks on Thursday, party leaders have said.\r\nTwo previous efforts to oust the New Yorker from his se… [+2959 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US charges Indian man in alleged assassination plot",
+      "description": "The plot targeted a US citizen in New York who was part of a Sikh separatist group, prosecutors say.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-67570007",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+      "publishedAt": "2023-11-29T15:52:25.4914468Z",
+      "content": "The US has charged a man over an alleged plot to assassinate an American citizen in New York who advocated for a Sikh separatist state. \r\nNikhil Gupta, an Indian national who was charged on Wednesday… [+1028 chars]"
+    }
+  ]
+}
